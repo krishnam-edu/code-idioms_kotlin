@@ -109,9 +109,9 @@ private fun experimentTryStatement() {
 
     println("parsed int $j")
 
-    val i: Int = Integer.parseInt("123x")
+    //val i: Int = Integer.parseInt("123x")
 
-    println("parsed int $i")
+    //println("parsed int $i") // this line will not be reached due to exception
 
 }
 
@@ -206,15 +206,6 @@ class Person {
     var name: String = "Bala"
 }
 
-
-class Trade {
-    var customer: Customer = Customer()
-    val trader: Trader = Trader()
-    val direction: TradeDirection = TradeDirection.SELL
-    val type: String = "Stock"
-    val tradeDate: Date = Date(2020, 11, 25)
-    val amount: BigDecimal = BigDecimal.TEN
-}
 
 class Customer {
     var ssn: String = "123-45-6789"
