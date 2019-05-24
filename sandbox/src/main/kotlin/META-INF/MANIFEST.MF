@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: com.kb.m1.intro.MainKt
+Main-Class: com.kb.m1.intro.HelloKt
 
