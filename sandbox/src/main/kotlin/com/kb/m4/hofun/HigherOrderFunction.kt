@@ -1,4 +1,4 @@
-package com.kb.m4.hlfunc
+package com.kb.m4.hofun
 
 fun main(args: Array<String>) {
     var program = Program()

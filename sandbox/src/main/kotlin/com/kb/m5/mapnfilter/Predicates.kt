@@ -1,18 +1,24 @@
-package rsk
+package com.kb.m5.mapnfilter
+/*
+lamda - returns true or false
 
-fun main(args: Array<String>) : Unit {
+collection have some useful predicates
+ */
+fun main(args: Array<String>){
     val ints = listOf(1, 2, 3, 4, 5)
+
+    //we can declare predicate as variable and pass it
     val greaterThanThree = { v:Int -> v > 3}
 
-    var largeInts = ints.all(greaterThanThree)
+    var isAllLarge = ints.all((greaterThanThree))
 
-    println(largeInts)
+    println(isAllLarge)
 
-    largeInts = ints.any (greaterThanThree)
+    val isAnyLarge = ints.any (greaterThanThree)
 
-    println(largeInts)
+    println(isAnyLarge)
 
-    var numberOfLargeInts = ints.count(greaterThanThree)
+    var numberOfLargeInts: Int = ints.count(greaterThanThree)
 
     println(numberOfLargeInts)
 

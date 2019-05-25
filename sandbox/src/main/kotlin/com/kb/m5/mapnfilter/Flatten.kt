@@ -1,4 +1,8 @@
-package rsk
+package com.kb.m5.mapnfilter
+
+/**
+ * to handle list of list object while using map
+ */
 
 fun main(args: Array<String>) : Unit {
 

@@ -1,4 +1,4 @@
-package rsk
+package com.kb.m5.mapnfilter
 
 class Meeting(val id: Int, val title: String) {
     val people = listOf(Person("Sam"), Person("Alex"))

@@ -1,19 +1,53 @@
-package rsk
+package com.kb.m5.mapnfilter
 
-fun iter (seq:Sequence<String>) {
-    for (t in seq) println(t)
+/*
+When
+ - functions such as filter map create lists
+ - fine if list is small
+ - not good if lists are massive
+ - instead of use Sequences
+        - no eval until we ask it -- terminal operator
+        - no extra memory
+        - similar to list but lazily evaluated
+        - like Java 8 Streams (exactly the same) -- streams are not available everywhere like android, whwre kotlin sequqnce can be used
+
+work on the result of asSequence()
+
+without sequence
+for {s1}
+for {s2}
+for {s3}
+
+with sequence
+for {w
+s1
+s2
+s3
 }
 
-fun main(args: Array<String>) : Unit {
+ */
+fun iter(seq: Sequence<String>) {
 
-    val meetings = listOf(Meeting(1, "Board Meeting"), Meeting(2, "Committee Meeting"))
+}
 
-    val titles: Sequence<String> = meetings
+fun main(args: Array<String>): Unit {
+
+
+    val meetings = listOf(Meeting(1, "Board Meeting"), Meeting(2, "Committee Meeting"), Meeting(1, "lunch break"))
+
+    println("without Sequence")
+    val titles = meetings
+            //      .asSequence()
+            .filter { println("filter($it)"); it.title.endsWith("g") }
+            .map { println("map($it)"); it.title }
+
+    println("with Sequence")
+    val titlesWithSe = meetings
             .asSequence()
-            .filter {println("filter($it)"); it.title.endsWith("g")}
-            .map { println("map($it)"); it.title}
-
-    iter(titles)
+            .filter { println("filter($it)"); it.title.endsWith("g") }
+            .map { println("map($it)"); it.title }
+// lazy eval
+    for (t in titlesWithSe) println("from outside expression $t")
 
 //    for (t in titles) println(t)
 //
@@ -25,11 +59,6 @@ fun main(args: Array<String>) : Unit {
 //    println(title)
 }
 
-class Meeting(val id: Int, val title: String) {
-    val people = listOf(Person("Sam"), Person("Alex"))
-}
-
-data class Person(val name: String) {
-
-}
-
+/*
+lambda to functional interface
+ */

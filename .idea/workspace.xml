@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="470d4870-c564-4d11-a009-85dd3b8506d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m6/null/nullability.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/MeetingJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/kotlin/Organizer.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/code-idioms_kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code-idioms_kotlin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InteliJ.md" beforeDir="false" afterPath="$PROJECT_DIR$/InteliJ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/getting_started.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/getting_started.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/hello.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/hello.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m4/hofun/HigherOrderFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m4/hofun/HigherOrderFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/FilterMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/FilterMap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Flatten.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Flatten.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Meeting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Meeting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Predicates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Predicates.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Sequences.kt" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Sequences.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,93 +31,90 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/hello.kt">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m4/hofun/HigherOrderFunction.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="408">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/FilterMap.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Sequences.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m6/null/nullability.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/Address.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/MeetingJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <element signature="e#25#124#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/InteliJ.md">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/kotlin/Organizer.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/com/kb/m1/intro/Trader.class">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Flatten.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/com/kb/m1/intro/TradeDirection.class">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Meeting.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/com/kb/m1/intro/Trade.class">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Predicates.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/com/kb/m1/intro/Person.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/getting_started.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#25#124#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/com/kb/m1/intro/MainKt.class">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/com/kb/m1/intro/Customer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -138,6 +143,17 @@
         <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/getting_started.kt" />
         <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/hello.kt" />
         <option value="$PROJECT_DIR$/InteliJ.md" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m4/hlfunc/HighLevelFun.kt" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/FilterMap.kt" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Meeting.kt" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Flatten.kt" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Predicates.kt" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Sequences.kt" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m6/null/nullability.kt" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/Address.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/Meeting.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/MeetingJava.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/kotlin/Organizer.kt" />
       </list>
     </option>
   </component>
@@ -188,44 +204,6 @@
             <path>
               <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kb" type="462c0819:PsiDirectoryNode" />
-              <item name="m1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kb" type="462c0819:PsiDirectoryNode" />
-              <item name="m1" type="462c0819:PsiDirectoryNode" />
-              <item name="intro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="sandbox" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -256,7 +234,48 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="intro" type="462c0819:PsiDirectoryNode" />
+              <item name="kb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kb" type="462c0819:PsiDirectoryNode" />
+              <item name="interop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kb" type="462c0819:PsiDirectoryNode" />
+              <item name="interop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="kb" type="462c0819:PsiDirectoryNode" />
+              <item name="interop" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code-idioms_kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code-idioms_kotlin" type="b2602c69:ProjectViewProjectNode" />
@@ -272,24 +291,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/lib" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.kb.m1.intro" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/sandbox/lib" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro" />
       <recent name="$PROJECT_DIR$/sandbox/src/main/kotlin" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.kb.m1.intro" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop" />
+      <recent name="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m6/null" />
+      <recent name="$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter" />
+      <recent name="$PROJECT_DIR$/sandbox/lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -304,7 +331,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.com.kb.m5.mapnfilter.SequencesKt">
+    <configuration name="com.kb.m5.mapnfilter.SequencesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="code-idioms_kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kb.m5.mapnfilter.SequencesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="m4hlfunc" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="code-idioms_kotlin" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kb.m4.hofun.HigherOrderFunctionKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="code-idioms_kotlin" />
       <option name="VM_PARAMETERS" value="" />
@@ -318,6 +371,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rsk.FilterMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="code-idioms_kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rsk.FilterMapKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rsk.PredicatesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="code-idioms_kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rsk.PredicatesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.main" />
+      <item itemvalue="Kotlin.m4hlfunc" />
+      <item itemvalue="Kotlin.rsk.FilterMapKt" />
+      <item itemvalue="Kotlin.rsk.PredicatesKt" />
+      <item itemvalue="Kotlin.com.kb.m5.mapnfilter.SequencesKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.kb.m5.mapnfilter.SequencesKt" />
+        <item itemvalue="Kotlin.rsk.PredicatesKt" />
+        <item itemvalue="Kotlin.rsk.FilterMapKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -330,10 +423,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
+    <frame x="70" y="27" width="1850" height="957" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.25277162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.25831485" />
       <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.25277162" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -342,15 +435,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.500813" side_tool="true" weight="0.25277162" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49944568" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.6801552" visible="true" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49445677" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.67849225" visible="true" weight="0.36662605" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.48946786" weight="0.3678441" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.31984478" side_tool="true" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.32150775" side_tool="true" visible="true" weight="0.36662605" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49445677" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48725057" weight="0.32886723" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -362,16 +455,8 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/s1/intro/Hello.kt" />
-    <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/HelloKt.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/com/kb/m1/intro/MainKt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/HelloKt.class" />
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/com/kb/m1/intro/MainKt.java" />
     <entry file="file://$PROJECT_DIR$/sandbox/decompiled/MainKt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -379,27 +464,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/getting_started.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#25#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/InteliJ.md" />
     <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/hello.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="330">
+          <caret line="25" column="93" selection-start-line="25" selection-start-column="93" selection-end-line="25" selection-end-column="93" />
           <folding>
             <element signature="e#25#124#0" expanded="true" />
           </folding>
@@ -434,6 +503,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/code-idioms_kotlin/com/kb/m1/intro/MainKt.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -444,10 +526,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InteliJ.md">
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m1/intro/getting_started.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m3/types/CompanionDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/PredicatesDemo.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m4/hofun/HigherOrderFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/FilterMap.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Flatten.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Meeting.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Predicates.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m5/mapnfilter/Sequences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m6/null/nullability.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="95" column="2" selection-start-line="95" selection-start-column="2" selection-end-line="95" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/Address.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/java/MeetingJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/kotlin/com/kb/m7/interop/kotlin/Organizer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -462,7 +623,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -481,6 +641,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>org.jetbrains:annotations:16.0.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
